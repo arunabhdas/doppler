@@ -1,0 +1,2 @@
+# ElectionsTracker
+Elections Tracker app
